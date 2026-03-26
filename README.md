@@ -38,7 +38,7 @@ Among the evaluated methods, **K-FAC shows a balanced performance across CNN and
 ## Paper
 You can read the full paper here:
 
-📄 `paper/second_order_optimization_deep_learning.pdf`
+`paper/Nghiên cứu một số thuật toán tối ưu bậc hai trong huấn luyện mô hình học sâu.pdf`
 
 ## License
 This repository is for academic and research purposes.
